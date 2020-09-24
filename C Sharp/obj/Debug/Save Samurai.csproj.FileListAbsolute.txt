@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Save Samurai\Save Samurai\bin\Debug\Save Samurai.exe.config
+C:\Users\User\source\repos\Save Samurai\Save Samurai\bin\Debug\Save Samurai.exe
+C:\Users\User\source\repos\Save Samurai\Save Samurai\bin\Debug\Save Samurai.pdb
+C:\Users\User\source\repos\Save Samurai\Save Samurai\obj\Debug\Save_Samurai.Properties.Resources.resources
+C:\Users\User\source\repos\Save Samurai\Save Samurai\obj\Debug\Save Samurai.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Save Samurai\Save Samurai\obj\Debug\Save Samurai.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Save Samurai\Save Samurai\obj\Debug\Save Samurai.exe
+C:\Users\User\source\repos\Save Samurai\Save Samurai\obj\Debug\Save Samurai.pdb
+C:\Users\User\source\repos\Save Samurai\Save Samurai\obj\Debug\Save Samurai.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Save Samurai\Save Samurai\obj\Debug\SaveSamurai.Launcher.resources
+C:\Users\User\source\repos\Save Samurai\Save Samurai\obj\Debug\SaveSamurai.Engine.GameFrame.resources

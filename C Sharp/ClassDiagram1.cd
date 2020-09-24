@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SaveSamurai.Data.Files" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAiAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Files.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveSamurai.Engine.GameField" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAABAAACAAAAAAIBAAAAAAAAAAAAACIAA=</HashCode>
+      <FileName>Engine\GameField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveSamurai.Engine.GameFrame" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACAAAAAgAACQAAACAAAIAAAKAAAAAAAACAA=</HashCode>
+      <FileName>Engine\GameFrame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveSamurai.Launcher" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAEACAAAACAAAAQAAAAAAAAAABBAA=</HashCode>
+      <FileName>Launcher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveSamurai.Program" Collapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAFAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveSamurai.Logic.Arrow" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAIyEAQEAIAAAAAABABEDEAAAAIQRgAQAAAAAAAA=</HashCode>
+      <FileName>Logic\Arrow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveSamurai.Logic.Banner" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAgIAgAAAAAABAIAAAAAAAAAAAAIAABgCAAAAAA=</HashCode>
+      <FileName>Logic\Banner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveSamurai.Logic.Game" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAUAAAAAABAAgAAIAAAoAQgAAAEAIQDFAAAAQIAMIIA=</HashCode>
+      <FileName>Logic\Game.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SaveSamurai.Logic.GameObject" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAQAIAAAAAAAAAAgAAAABgAAAAAAA=</HashCode>
+      <FileName>Logic\GameObject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SaveSamurai.Logic.Samurai" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAIAIAAAAAAAEAEAAAAIAAgAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Samurai.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveSamurai.Logic.ValueString" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAABAIAAAAAAAAAACAAAABgAAAAAAA=</HashCode>
+      <FileName>Logic\ValueString.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveSamurai.Properties.Resources" Collapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveSamurai.Properties.Settings" Collapsed="true">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SaveSamurai.Engine.Drawable" Collapsed="true">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\Drawable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SaveSamurai.Engine.GameLogic" Collapsed="true">
+    <Position X="11.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAAAAAAABAAAAAAAAAAAAAAAAAAAACAAAAAQAAAIAA=</HashCode>
+      <FileName>Engine\GameLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
